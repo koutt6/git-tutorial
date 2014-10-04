@@ -1,3 +1,3 @@
 #Git tutorial
 
-add content
+content B
